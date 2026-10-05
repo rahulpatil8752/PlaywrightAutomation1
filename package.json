@@ -1,0 +1,22 @@
+{
+  "name": "playwrightautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^25.3.0",
+    "allure-playwright": "^3.10.0",
+    "exceljs": "^4.4.0",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "xls": "^0.5.1",
+    "xlsx": "^0.18.5"
+  }
+}
